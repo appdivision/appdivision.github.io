@@ -1,0 +1,22 @@
+# Site settings
+title: Appinix
+email: appinix@gmail.com
+url: https://appinix.github.io
+description: "Software Development Studio"
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary-dark: '#38393a'
+  links: '#d2cfc6'
+
+# Footer settings
+footer: APPINIX
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: github
+    url: https://github.com/appinix
+
+# Build settings
+markdown: kramdown
+permalink: pretty
