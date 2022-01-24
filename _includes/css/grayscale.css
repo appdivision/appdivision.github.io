@@ -250,7 +250,9 @@ a:focus {
 }
 
 .content-section {
-    padding-top: 100px;
+    padding-top: 10em;
+    padding-bottom: 10em;
+
 }
 
 #about {
